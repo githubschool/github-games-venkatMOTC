@@ -1,4 +1,4 @@
-## Welcome to GitHub Games
+## Welcome to GitHub Games 2.65
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
